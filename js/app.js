@@ -13,7 +13,7 @@
 // console.log('number of odd numbers is ' + odd);
 
 let start='*';
-let userInput=prompt('please Enter the number you want to starts');
+let userInput=prompt('please enter the level of stars you want');
 
 for(let i=1;i<=userInput;i++)
 {
